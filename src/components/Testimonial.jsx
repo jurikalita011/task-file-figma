@@ -23,7 +23,13 @@ export const Testimonial = () => {
           <Image src={hands} />
           <Text
             className={styles.heading}
-            fontSize={{ base: "18px", sm: "18px" }}
+            fontSize={{
+              base: "18px",
+              sm: "18px",
+              md: "20px",
+              lg: "30px",
+              "2xl": "40px",
+            }}
           >
             What Our Customer Says
           </Text>

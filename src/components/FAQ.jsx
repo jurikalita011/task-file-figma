@@ -64,7 +64,7 @@ export const FAQ = () => {
         </Text>
       </Box>
       <>
-        <Accordion defaultIndex={[0]} allowMultiple>
+        <Accordion allowMultiple>
           {faqData.map((item, index) => (
             <AccordionItem key={index}>
               <h2>

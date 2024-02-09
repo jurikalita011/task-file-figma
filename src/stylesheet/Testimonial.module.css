@@ -29,10 +29,8 @@ img:nth-child(2) {
 
 .heading {
   font-family: Proxima Nova;
-  font-size: 44px;
   font-weight: 600;
   line-height: 55px;
-
   text-align: center;
 }
 .paraBox > p:nth-child(1) {

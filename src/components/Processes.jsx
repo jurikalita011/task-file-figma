@@ -52,7 +52,7 @@ export const Processes = () => {
             </VStack>
             <VStack
               className={styles.vstack2}
-              bottom={{ base: "20%", lg: "18%" }}
+              bottom={{ base: "20%", lg: "10%" }}
             >
               <Image src={building} w={{ base: "0", lg: "30px" }} />
               <Text color={"gray.600"} fontSize={"14px"}>

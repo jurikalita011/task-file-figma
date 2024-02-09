@@ -23,7 +23,7 @@
 
 .insideBox img:nth-child(2) {
   position: absolute;
-  top: 13%;
+  top: 2%;
   left: 38%;
   width: 31%;
 }
@@ -34,10 +34,20 @@
   left: 8%;
   border-radius: 8px;
   padding: 10px 20px;
-  background-color: #f4e9fc;
 }
 .vstack1 {
-  top: 30%;
+  top: 32%;
+  background-color: #f4e9fc;
+}
+.vstack2 {
+  background-image: linear-gradient(
+    to right,
+    #f2f5f0,
+    #f0f6f3,
+    #edf6f8,
+    #ecf6f9,
+    #e8f7ff
+  );
 }
 .txt2 {
   text-align: center;
