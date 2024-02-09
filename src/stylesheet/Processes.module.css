@@ -1,0 +1,89 @@
+.cont {
+  width: 85%;
+  margin: 20px auto;
+}
+
+.flex1 {
+  gap: 8%;
+  align-items: center;
+}
+
+.box1 {
+  display: grid;
+  place-items: center;
+  position: relative;
+  line-height: 15px;
+}
+.insideBox {
+  position: relative;
+}
+.box1Img1 {
+  background-color: white;
+}
+
+.insideBox img:nth-child(2) {
+  position: absolute;
+  top: 13%;
+  left: 38%;
+  width: 31%;
+}
+.vstack1,
+.vstack2 {
+  width: 80%;
+  position: absolute;
+  left: 8%;
+  border-radius: 8px;
+  padding: 10px 20px;
+  background-color: #f4e9fc;
+}
+.vstack1 {
+  top: 30%;
+}
+.txt2 {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  color: #8800ec;
+}
+.innerBox1Img {
+  width: 40px;
+}
+
+.outsideBox {
+  padding: 9px 20px;
+  border-radius: 25px;
+  gap: 7px;
+  align-items: center;
+  position: absolute;
+}
+
+.box2 {
+  position: relative;
+  min-height: 45vh;
+}
+
+.box2 .range-img {
+  width: 84%;
+}
+
+.box2 .btn {
+  background: var(--1, #8800ec);
+  color: white;
+  border-radius: 2px;
+  font-weight: 500;
+  height: 40px;
+  padding: 8px 55px;
+  text-align: start;
+  position: absolute;
+  bottom: 0%;
+  left: 23%;
+}
+
+.box2 > div {
+  gap: 5px;
+  align-items: center;
+}
+
+.range-img {
+  margin-top: -25px;
+}

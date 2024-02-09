@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#F3D64E;}
+	.st3{fill:none;stroke:#F3D64E;stroke-width:0.25;stroke-linecap:square;stroke-miterlimit:10;}
+	
+		.st4{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#F3D64E;stroke-width:0.25;stroke-linecap:square;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#060000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#87189D;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Guides" class="st0">
+	<g class="st1">
+		<path class="st2" d="M194.75,5.25v189.5H5.25V5.25H194.75 M195,5H5v190h190V5L195,5z"/>
+	</g>
+	<g class="st1">
+		<line class="st3" x1="100" y1="5" x2="100" y2="195"/>
+	</g>
+	<g class="st1">
+		<line class="st3" x1="195" y1="100" x2="5" y2="100"/>
+	</g>
+	<circle class="st4" cx="100" cy="100" r="95"/>
+</g>
+<g id="Layer_4">
+	<g>
+		<path id="Rectangle-path_3_1_" class="st5" d="M7.8,111.64c0-2.21,1.79-4.01,4.01-4.01h24.05c2.21,0,4.01,1.79,4.01,4.01v56.12
+			c0,2.21-1.8,4.01-4.01,4.01H11.81c-2.21,0-4.01-1.8-4.01-4.01V111.64z"/>
+		<path id="Shape_137_1_" class="st5" d="M49.58,159.75c86.01,28.68,44.59,28.97,142.62-20.04c-5.55-7.45-15.15-10.65-24.05-8.02
+			l-35.55,11.8"/>
+		<path id="Shape_138_1_" class="st5" d="M49.58,116.62l14.35-0.97c13.65,0.48,26.57,6.23,36.08,16.03h24.05
+			c3.21-0.58,6.45,0.81,8.24,3.53c1.79,2.72,1.79,6.25,0,8.97c-1.79,2.72-5.03,4.11-8.24,3.53H79.96"/>
+	</g>
+	<g>
+		<line class="st6" x1="120.93" y1="32.08" x2="120.93" y2="40.59"/>
+		<line class="st6" x1="120.93" y1="77.72" x2="120.93" y2="86.23"/>
+		<path class="st6" d="M120.58,20.66c21.9,0,39.65,17.75,39.65,39.65c0,21.9-17.75,39.65-39.65,39.65
+			c-21.9,0-39.65-17.75-39.65-39.65C80.93,38.41,98.68,20.66,120.58,20.66L120.58,20.66z"/>
+		<path class="st6" d="M133.27,45.03c-3.92-1.3-7.46-2.53-11.01-2.93c-19.12-2.15-21.57,17.11-1.22,17.05
+			c19.78-0.06,17.92,19.22-1.25,17.05c-3.55-0.4-7.08-1.63-10.98-2.93"/>
+	</g>
+</g>
+</svg>

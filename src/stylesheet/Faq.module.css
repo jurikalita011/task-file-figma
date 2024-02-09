@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css?family=Proxima+Nova");
+.question {
+  font-family: Proxima Nova;
+  color: #2a2a2a;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 1%;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.answer {
+  color: #2a2a2a;
+  font-size: 85%;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.heading {
+  display: flex;
+  color: #2a2a2a;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 137.8%;
+  text-transform: capitalize;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.btn {
+  background: var(--1, #8800ec);
+  color: white;
+  border-radius: 2px;
+  font-weight: 400;
+  height: 40px;
+  padding: 8px 55px;
+  text-align: start;
+
+  &:hover {
+    opacity: 0.9;
+  }
+}

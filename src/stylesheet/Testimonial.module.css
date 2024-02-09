@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css?family=Proxima+Nova");
+
+.cont {
+  background-color: #f8f9fa;
+}
+.main {
+  padding: 40px 50px 0 50px;
+  margin: 0 auto;
+}
+.headingFlex {
+  width: 100%;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.flexMain {
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  position: relative;
+  text-align: start;
+}
+
+img:nth-child(2) {
+  align-self: flex-start;
+  margin-top: 50px;
+}
+
+.heading {
+  font-family: Proxima Nova;
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 55px;
+
+  text-align: center;
+}
+.paraBox > p:nth-child(1) {
+  font-family: Proxima Nova;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 29px;
+  letter-spacing: 0px;
+  text-align: left;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.paraBox > p:nth-child(2) {
+  font-family: Proxima Nova;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0px;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.paraBox > p:nth-child(3) {
+  color: #2a2a2a;
+  opacity: 75%;
+  font-family: Proxima Nova;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0px;
+}

@@ -1,0 +1,55 @@
+.cont {
+  width: 100%;
+  gap: 16px;
+  text-align: start;
+}
+
+.heading {
+  text-align: start;
+  margin-top: 27px;
+}
+
+.span {
+  color: #ff0096;
+}
+
+.flex1,
+.flex2 {
+  text-align: start;
+  margin-top: 30.5px;
+  align-items: center;
+  margin-bottom: 35px;
+}
+.flex2 {
+  margin-bottom: 48px;
+}
+.img {
+  width: 50px;
+  height: 50px;
+}
+.txt1 {
+  font-weight: bold;
+}
+.child,
+.child2 {
+  gap: 16px;
+  align-items: center;
+}
+.child2 {
+  margin-left: 8px;
+}
+.btn {
+  background: var(--1, #8800ec);
+  color: white;
+  border-radius: 3px;
+  height: 40px;
+  text-align: start;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.btn:active {
+  opacity: 0.9;
+}

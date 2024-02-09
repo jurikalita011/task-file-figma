@@ -1,0 +1,34 @@
+a {
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.cont1 {
+  gap: 16px;
+  align-items: center;
+}
+
+.cont2 {
+  gap: 24px;
+}
+
+.flex1 {
+  position: relative;
+}
+.flex1 > img {
+  position: absolute;
+  left: 5%;
+  top: 33%;
+}
+
+input {
+  border-radius: 3px;
+  padding-left: 38px;
+  background: var(
+    --light-states-on-background-high-contrast-opacity-012,
+    rgba(33, 33, 33, 0.12)
+  );
+}

@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Proxima+Nova");
+.cont {
+  padding: 35px 50px;
+  background-color: #212121;
+}
+
+.txt {
+  font-family: Proxima Nova;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-align: left;
+}
